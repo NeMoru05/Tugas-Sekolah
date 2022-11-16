@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DataPlayer
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ canInteract()
+comment3.params=
+comment3.target=boolean\ interactInput()
+comment4.params=actor
+comment4.target=boolean\ clickInput(greenfoot.Actor)
+comment5.params=
+comment5.target=void\ checkWorld()
+comment5.text=\r\n\ Checks\ the\ current\ world\r\n\ Puts\ the\ spawn\ coordinates\ of\ the\ player\ to\ the\ current\ world\r\n
+numComments=6

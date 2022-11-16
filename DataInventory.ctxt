@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DataInventory
+comment1.params=name\ number
+comment1.target=void\ addItem(java.lang.String,\ int)
+comment1.text=\r\n\ Adds\ an\ item\ to\ the\ player\ in\ the\ items\ array\r\n\ Increase\ the\ itemsNumber\ count\ for\ the\ item\r\n\ Increments\ the\ numberOfItems\ if\ the\ player\ doesn't\ already\ have\ this\ item\r\n\ Renames\ some\ items\ in\ the\ names\ array\r\n
+comment2.params=name\ number
+comment2.target=void\ removeItem(java.lang.String,\ int)
+comment2.text=\r\n\ Removes\ an\ item\ to\ the\ player\ in\ the\ items\ array\ if\ the\ player\ has\ only\ one\ instance\ of\ this\ item\r\n\ Decreases\ the\ itemsNumber\ count\ for\ the\ item\r\n\ Decreases\ the\ numberOfItems\ if\ the\ player\ has\ only\ one\ instance\ of\ this\ item\r\n\ Renames\ some\ items\ in\ the\ names\ array\r\n
+comment3.params=
+comment3.target=void\ renameItems()
+comment3.text=\r\n\ Renames\ all\ items\ in\ the\ names\ array\ so\ they\ are\ readable\ an\ can\ be\ used\ in\ texts\r\n
+numComments=4
