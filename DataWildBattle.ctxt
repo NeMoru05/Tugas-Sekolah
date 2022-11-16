@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=DataWildBattle
+comment1.params=
+comment1.target=void\ act()
+comment2.params=playerAttackType
+comment2.target=void\ startTurn(java.lang.String)
+comment2.text=\r\n\ Starts\ the\ turn\ by\ checking\ the\ player\ attack\ and\ enemy\ attack\r\n\ Adds\ the\ first\ battle\ attack\ to\ the\ world\r\n
+comment3.params=attack
+comment3.target=void\ endFirstTurn(BattleAttack)
+comment3.text=\r\n\ Ends\ the\ first\ turn\r\n\ Creates\ texts\ for\ OverlayText\r\n
+comment4.params=attack
+comment4.target=void\ endLastTurn(BattleAttack)
+comment4.text=\r\n\ Ends\ the\ last\ turn\r\n\ Creates\ texts\ for\ OverlayText\r\n
+comment5.params=
+comment5.target=void\ failedRun()
+comment5.text=\r\n\ Starts\ when\ a\ pokemon\ fails\ to\ run\r\n\ Creates\ a\ new\ enemy\ battle\ attack\r\n
+comment6.params=
+comment6.target=boolean\ playerPlaysFirst()
+comment6.text=\r\n\ Returns\ if\ the\ player\ plays\ before\ the\ enemy\ based\ on\ priority,\ then\ speed,\ then\ random\r\n
+comment7.params=attackType\ enemyType1\ enemyType2
+comment7.target=double\ getEfficiency(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.text=\r\n\ Returns\ the\ efficiency\ of\ the\ attack\ based\ on\ its\ type\ and\ on\ the\ target\ types\r\n
+numComments=8
