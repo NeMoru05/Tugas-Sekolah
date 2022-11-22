@@ -1,3 +1,4 @@
+import Actor.Misc.Player;
 import greenfoot.*;
 public class DataPlayer extends Datas
 {
